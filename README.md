@@ -25,7 +25,21 @@ This was our first foray into using Javascript to dynamically manipulate HTML an
 
 ## Web App Attributes
 
+1. Random poster will show when Web app is loaded.
+![Screen Shot 2021-09-05 at 2 31 44 PM](https://user-images.githubusercontent.com/39206140/132140936-b379953d-f71f-4bd6-b978-8d1fec33d466.png)
 
+![Screen Shot 2021-09-05 at 2 31 03 PM](https://user-images.githubusercontent.com/39206140/132140944-f593b9e9-6f42-4342-8ea9-b0776f6a19c2.png)
+
+2. Clicking on the "Make Your Own Poster" button will show a form that allows a user to create a custom poster.
+![Screen Shot 2021-09-05 at 2 42 00 PM](https://user-images.githubusercontent.com/39206140/132140957-1d2ecae7-dba8-459a-a1c9-4f47358ff0ad.png)
+
+3. User created poster will be shown on the Main page.
+![Screen Shot 2021-09-05 at 2 41 51 PM](https://user-images.githubusercontent.com/39206140/132140969-4cd869e2-69dc-401c-8556-ed116cc01e17.png)
+
+4. User will be allowed to save any poster and view their saved posters by clicking the "Show Saved Posters" button.
+![Screen Shot 2021-09-05 at 2 42 12 PM](https://user-images.githubusercontent.com/39206140/132140976-755ecd56-89fb-4470-9232-d3f19b7143a9.png)
+
+![Screen Shot 2021-09-05 at 2 42 37 PM](https://user-images.githubusercontent.com/39206140/132140987-1173161f-539f-4a35-9b13-4d8e437d364d.png)
 
 ## Contributors
 * Kyra Bergsund
