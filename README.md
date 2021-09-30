@@ -1,4 +1,6 @@
-# Hang In There (Pair Project)
+# Hang In There
+Turing School of Software & Design
+Mod 1 2108 FEE - Pair Project
 
 A motivational poster generator. Cycle through random options or make your own. Save individual posters and view all on a grid, double click to delete.
 
